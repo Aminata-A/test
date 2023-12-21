@@ -1,3 +1,20 @@
 body{
-    background: red;
+    background: brown;
+    color: white;
+    font-size: 3em;
+}
+header{
+    display: flex;
+    background-color: black;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+footer{
+    display: flex;
+    background-color: black;
 }
