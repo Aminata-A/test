@@ -1,5 +1,5 @@
 body{
-    background: brown;
+    background: rgb(47, 16, 225);
     color: white;
     font-size: 3em;
 }
@@ -12,6 +12,9 @@ ul{
     list-style-type: none;
     text-decoration: none;
     justify-content: space-around;
+}
+li{
+    margin: 15px;
 }
 
 footer{
